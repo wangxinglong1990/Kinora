@@ -5,7 +5,7 @@ It predicts `Km` and `kcat` jointly, supports cross-validation training, single/
 
 ## Model Architecture
 
-![Kinora model architecture](./figures/km_kcat_unified_architecture.pdf)
+![Kinora model architecture](./figures/model.png)
 
 ## What This Repository Provides
 
